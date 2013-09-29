@@ -25,3 +25,6 @@ The code is pretty much self explanatory with the comments. *wid* and *hei* are 
 
 ##Example
 ![Prime Generation](http://i.imgur.com/DVY6XSc.gif)
+
+##Bonus
+In the repo you can find the output of the script with the given settings, a 64x8192 image containing all prime number representations until number 84017. It took a few seconds to generate, so I throw it in as a bonus for you. :P
