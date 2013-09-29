@@ -5,19 +5,19 @@
 
 ##Configuration
 Inside PrimeMapper.py there is the following code:<br/>
-`python
+`
 wid = 64        #Width of the final image
 `
 <br/>
-`python
+`
 hei = 8192      #Height of the final image
 `
 <br/>
-`python
+`
 fin = 84015     #Number to go to
 `
 <br/>
-`python
+`
 fnm = "PrimeMap"  #File name to export
 `
 <br/>
